@@ -47,10 +47,3 @@ These scripts are intended to be run in an environment supporting standard SQL, 
 - DBeaver (recommended for visual interface)
 - SQLite / PostgreSQL / MySQL (some adjustments may be needed depending on SQL dialect)
 
-## ✅ License
-
-This project is licensed under the MIT License.
-
----
-
-Feel free to contribute or fork the repository for your own use.
